@@ -1,6 +1,6 @@
 # Visualizacion
-Repositorio con los contenidos vistos a lo largo del curso
+Repositorio donde estaran mis tareas del curso
 
-# Contenidos
+# Fernandez Morales Juan Carlos
 
-* [Syntax](./CppSyntax/): Carpeta con códigos para conocer la sintaxis y manejo de clases de c++. 
+- 321068361
